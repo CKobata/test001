@@ -12,9 +12,5 @@ eeeeeeeeeeeee
 aaaaaaaaaaaaaaa
 bbbbbbbbbbbbbbbbb
 
-
-uuuuuuuuuuuuuuuuuu
-
-11111111111111
-
-
+aaaaaaaaaaa
+1111111111111111
